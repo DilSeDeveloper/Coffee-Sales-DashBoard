@@ -37,21 +37,22 @@ The dashboard provides insights into sales trends, customer purchasing behavior,
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboardOverview.png)
+![Dashboard Overview](dashboardOverview.png)
 
 ### Sales Analysis
-![Sales Analysis](Screenshots/sales-analysis.png)
+![Sales Analysis](sales-analysis.png)
 
 ### Product Insights
-![Product Insights](Screenshots/product-insights.png)
+![Product Insights](product-insights.png)
 
 ---
 
 ## 📈 Key Insights
 - Identified the most popular coffee products.
-- Analyzed sales distribution across different periods.
-- Explored customer purchasing trends.
-- Built an interactive dashboard for better decision-making.
+- Analyzed monthly sales trends and transaction patterns.
+- Explored customer purchasing behavior based on time of day.
+- Identified top-performing products contributing the highest revenue.
+- Built an interactive dashboard for better business decision-making.
 
 ---
 
@@ -62,12 +63,9 @@ Coffee-Sales-Dashboard
 │
 ├── Coffee Sales Dashboard.pbix
 ├── README.md
-├── Dataset/
-│     └── coffee_sales_data.csv
-├── Screenshots/
-│     ├── dashboard-overview.png
-│     ├── sales-analysis.png
-│     └── product-insights.png
+├── dashboardOverview.png
+├── sales-analysis.png
+└── product-insights.png
 ```
 
 ---
@@ -76,14 +74,32 @@ Coffee-Sales-Dashboard
 This mini-project helped me strengthen my understanding of:
 
 - Data Cleaning and Transformation
-- DAX Measures
+- Data Modeling in Power BI
+- DAX Measures and Calculations
 - Dashboard Design Principles
 - Business Storytelling through Data
-- Interactive Reporting in Power BI
+- Interactive Reporting and Visualization
 
 ---
 
 ## ⭐ About the Project
 This dashboard was created as a **quick weekend project** to practice Power BI and improve data visualization skills by transforming raw data into actionable insights.
 
+It was a fun exercise in combining analytics with dashboard design while learning how businesses can leverage data for decision-making.
+
 If you found this project interesting, feel free to ⭐ the repository!
+
+---
+
+## 🔗 Connect With Me
+
+### GitHub
+https://github.com/DilSeDeveloper
+
+### LinkedIn
+https://www.linkedin.com/in/saumya-jain-3745b032a/
+
+---
+
+### 📌 Repository Topics
+`powerbi` `data-analytics` `dashboard` `business-intelligence` `data-visualization` `dax`
