@@ -37,7 +37,7 @@ The dashboard provides insights into sales trends, customer purchasing behavior,
 ## 📸 Dashboard Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Dashboard Overview](Screenshots/dashboardOverview.png)
 
 ### Sales Analysis
 ![Sales Analysis](Screenshots/sales-analysis.png)
